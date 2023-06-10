@@ -3,7 +3,7 @@ node_modules/
 z*
 
 # Ignores a file called .env
-*.env
+.env*
 
 # Root config folder - Ignore this directory at the root due to leading slash
 # Removing the slash would ignore "artifacts" directories at all depths 
